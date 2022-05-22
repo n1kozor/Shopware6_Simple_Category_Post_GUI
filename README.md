@@ -1,4 +1,4 @@
-# Shopware6_Simple_Category_Post_GUI
+# Shopware6_Simple_Category_Creator_GUI
 Simple GUI tool to post new Category
 
 api/sw_6_api_config
